@@ -4,21 +4,21 @@
         <description><![CDATA[The Vapour Loft]]></description>
         <link>https://thegrid.ai/vapourloft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 25 Oct 2015 19:07:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2015 19:08:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/vapourloft/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to the Vapour Loft the leading e-cig store in Ipswich.</p></article>]]></description>
+            <link>https://thegrid.ai/vapourloft/welcome/index.html</link>
+            <guid isPermaLink="false">6d2c6abc-23c5-4b46-b966-3be226e3366b</guid>
+            <pubDate>Sun, 25 Oct 2015 19:08:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Vapour Loft]]></title>
             <description><![CDATA[<h1>The Vapour Loft</h1>]]></description>
             <link>https://www.google.co.uk/maps/place/The+Vapour+Loft/@52.0558173,1.1544183,17z/data=!3m1!4b1!4m2!3m1!1s0x47d9a02b76d21e09:0xa2c00f21db6e068e</link>
             <guid isPermaLink="false">f344f89c-6089-41d9-922e-b3dabf622645</guid>
             <pubDate>Sun, 25 Oct 2015 19:07:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Welcome]]></title>
-            <description><![CDATA[<article><h1>Welcome</h1><p>Welcome to the Vapour Loft the leading e-cig store in Ipswich.</p></article>]]></description>
-            <link>https://thegrid.ai/vapourloft/welcome/index.html</link>
-            <guid isPermaLink="false">6d2c6abc-23c5-4b46-b966-3be226e3366b</guid>
-            <pubDate>Sun, 25 Oct 2015 19:07:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
